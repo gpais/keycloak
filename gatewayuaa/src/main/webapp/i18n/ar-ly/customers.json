@@ -1,0 +1,26 @@
+{
+    "gatewayuaaApp": {
+        "customers" : {
+            "home": {
+                "title": "Customers",
+                "createLabel": "Create a new Customers",
+                "createOrEditLabel": "Create or edit a Customers"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Customers {{ id }}?"
+            },
+            "detail": {
+                "title": "Customers"
+            },
+            "email": "Email",
+            "password": "Password"
+        }
+    },
+    "customersApp": {
+        "customers" : {
+            "created": "A new Customers is created with identifier {{ param }}",
+            "updated": "A Customers is updated with identifier {{ param }}",
+            "deleted": "A Customers is deleted with identifier {{ param }}"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "gatewayuaaApp": {
+        "customers" : {
+            "home": {
+                "title": "Customers",
+                "createLabel": "Customers erstellen",
+                "createOrEditLabel": "Customers erstellen oder bearbeiten"
+            },
+            "delete": {
+                "question": "Soll Customers {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Customers"
+            },
+            "email": "Email",
+            "password": "Password"
+        }
+    },
+    "customersApp": {
+        "customers" : {
+            "created": "Customers erstellt mit ID {{ param }}",
+            "updated": "Customers aktualisiert mit ID {{ param }}",
+            "deleted": "Customers gelöscht mit ID {{ param }}"
+        }
+    }
+}

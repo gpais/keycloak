@@ -1,0 +1,26 @@
+{
+    "gatewayuaaApp": {
+        "customers" : {
+            "home": {
+                "title": "Customers",
+                "createLabel": "Δημιουργήστε ένα νέο Customers",
+                "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Customers"
+            },
+            "delete": {
+                "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Customers {{ id }};"
+            },
+            "detail": {
+                "title": "Customers"
+            },
+            "email": "Email",
+            "password": "Password"
+        }
+    },
+    "customersApp": {
+        "customers" : {
+            "created": "Ένα νέο Customers έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+            "updated": "Ένα Customers έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+            "deleted": "Ένα Customers έχει διαγραφτεί με αναγνωριστικό {{ param }}"
+        }
+    }
+}
